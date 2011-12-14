@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>edu.mayo.mprc</groupId>
+    <artifactId>integration-resources</artifactId>
+    <version>3.0-SNAPSHOT</version>
+    <name>integration resources</name>
+    <description>This module is not tracked by subversion, instead it is directly deployed to a maven repository. Contains all the data for running an integration test.</description>
+
+    <parent>
+        <groupId>edu.mayo.mprc</groupId>
+        <artifactId>lib</artifactId>
+        <version>3.0-SNAPSHOT</version>
+    </parent>
+
+</project>

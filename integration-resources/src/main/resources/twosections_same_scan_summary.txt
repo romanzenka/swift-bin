@@ -1,0 +1,2 @@
+mgf file name	scan number(s)	charge states	precursor m/z	# of peaks	maximum abundance in ms/ms spectrum
+test_13Mar2008-175543_56570.tmp	10	2,3	771.99743764514	16	665.8

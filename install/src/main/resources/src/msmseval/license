@@ -1,0 +1,33 @@
+msmsEval v1.3 (03-Aug-07)
+by Jason W. H. Wong, Cartwright Lab, PTCL, University of Oxford. 2006-7(c)
+
+License:
+
+The stand-alone msmsEval application and its source code is free to academic, 
+government and non-profit users for non-commercial use. Use of the msmsEval
+application and source code in part or in whole for commercial use by non-profit 
+and for-profit entities require a license agreement. Parties interested in 
+commercial should contact jason.wong@chem.ox.ac.uk for permission to use
+the msmsEval application or its source code.
+
+The use of msmsEval in any research must cite as appropriate:
+
+Wong, J.W.H., Sullivan, M.J., Cartwright, H.M. and Cagney, G. (2007) msmsEval: 
+Tandem mass spectral quality assignment for high-throughput proteomics 
+BMC Bioinformatics. 8:51
+
+Disclaimer:
+
+msmsEval and all associated documents ARE PROVIDED "AS IS" WITHOUT ANY WARRANTY 
+OF ANY KIND, EITHER EXPRESS, IMPLIED, OR STATUTORY, INCLUDING, BUT NOT LIMITED TO, 
+ANY IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND 
+FREEDOM FROM INFRINGEMENT, OR THAT msmsEval and all associated documents WILL 
+BE ERROR FREE. The author MAKES NO REPRESENTATIONS THAT THE USE OF msmsEval or 
+any associated documents WILL NOT INFRINGE ANY PATENT OR PROPRIETARY RIGHTS OF 
+THIRD PARTIES. In no event will the authors be liable for any damages, including 
+but not limited to direct, indirect, special or consequential damages, arising out 
+of, resulting from, or in any way connected with the use of msmsEval or any associated 
+documents.
+
+
+

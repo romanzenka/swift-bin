@@ -1,0 +1,1 @@
+When a user uploads a new FASTA database, it gets stored here.

@@ -1,0 +1,21 @@
+Swift 2.4.5 installation.
+-------------------------
+
+1) Copy the Swift installation to your disk.
+
+2) Run the configuration script (./config.sh on linux, config.bat on Windows).
+
+   Swift will give you an URL (e.g. http://server:8080). Open the URL in your web browser. The configuration page
+      should appear.
+
+   Several things can go wrong:
+
+   a) You do not have Java installed
+       Swift needs Java 1.6.0 or newer to run. Download Java from http://java.com
+
+   b) the default port number 8080 is taken.
+   		Specify a different port using the --port switch when running the script, like this:
+   		config --port <different port number>
+
+3) Follow the instructions on the configuration page. Swift will produce a configuration file (swift.conf),
+   	with all your specific settings. Swift will also give you instructions about how to start it.
