@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+    <groupId>edu.mayo.mprc</groupId>
+    <artifactId>swift-bin</artifactId>
+    <packaging>pom</packaging>
+    <version>3.0-SNAPSHOT</version>
+    <name>Swift Binaries</name>
+    <url>http://github.com/romanzenka/swift-bin</url>
+    <inceptionYear>2007</inceptionYear>
+
+    <parent>
+        <groupId>edu.mayo.mprc</groupId>
+        <artifactId>mprc</artifactId>
+        <version>3.0-SNAPSHOT</version>
+        <relativePath>mprc/pom.xml</relativePath>
+    </parent>
+
+    <modules>
+        <module>install</module>
+        <module>install-exe</module>
+        <module>integration-resources</module>
+    </modules>
+
+    <repositories>
+        <repository>
+            <id>mayo-nexus-public</id>
+            <url>http://informatics.mayo.edu/maven/content/repositories/releases/</url>
+            <name>Public Mayo Nexus with Mayo-specific releases</name>
+            <releases>
+                <enabled>true</enabled>
+            </releases>
+            <snapshots>
+                <enabled>false</enabled>
+            </snapshots>
+        </repository>
+        <repository>
+            <id>mayo-nexus-public-snapshots</id>
+            <url>http://informatics.mayo.edu/maven/content/repositories/snapshots/</url>
+            <name>Public Mayo Nexus with Mayo-specific snapshots</name>
+            <releases>
+                <enabled>false</enabled>
+            </releases>
+            <snapshots>
+                <enabled>true</enabled>
+            </snapshots>
+        </repository>
+    </repositories>
+</project>
