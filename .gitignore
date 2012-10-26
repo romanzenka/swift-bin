@@ -5,3 +5,4 @@ target
 *.iws
 *.idea
 *~
+integration-resources/src/main/resources/pwiz/setup_proteomics_wine_env.sh
