@@ -10,7 +10,7 @@
 
     <parent>
         <groupId>edu.mayo.mprc</groupId>
-        <artifactId>lib</artifactId>
+        <artifactId>swift</artifactId>
         <version>3.0-SNAPSHOT</version>
     </parent>
 
