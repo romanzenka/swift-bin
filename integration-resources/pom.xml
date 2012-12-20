@@ -6,11 +6,11 @@
     <artifactId>integration-resources</artifactId>
     <version>3.0-SNAPSHOT</version>
     <name>integration resources</name>
-    <description>This module is not tracked by subversion, instead it is directly deployed to a maven repository. Contains all the data for running an integration test.</description>
+    <description>All the data for running an integration test.</description>
 
     <parent>
         <groupId>edu.mayo.mprc</groupId>
-        <artifactId>lib</artifactId>
+        <artifactId>swift</artifactId>
         <version>3.0-SNAPSHOT</version>
     </parent>
 

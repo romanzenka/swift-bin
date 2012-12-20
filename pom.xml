@@ -14,7 +14,6 @@
         <groupId>edu.mayo.mprc</groupId>
         <artifactId>mprc</artifactId>
         <version>3.0-SNAPSHOT</version>
-        <relativePath>mprc/pom.xml</relativePath>
     </parent>
 
     <modules>
