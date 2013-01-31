@@ -9,7 +9,7 @@
     <description>Files that make Swift installation package</description>
     <parent>
         <groupId>edu.mayo.mprc</groupId>
-        <artifactId>swift</artifactId>
+        <artifactId>swift-bin</artifactId>
         <version>3.0-SNAPSHOT</version>
     </parent>
 </project>

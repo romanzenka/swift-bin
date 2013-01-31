@@ -9,7 +9,7 @@
     <description>Executable files that make Swift installation package. TODO: assembly plugin hack, fix</description>
     <parent>
         <groupId>edu.mayo.mprc</groupId>
-        <artifactId>swift</artifactId>
+        <artifactId>swift-bin</artifactId>
         <version>3.0-SNAPSHOT</version>
     </parent>
 </project>
