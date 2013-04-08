@@ -39,7 +39,7 @@ then
 	echo "Usage: unixXvfbWrapper <command>"
 	echo "Where <command> is the command to be executed with Xvfb set up"
 else
-    echo Using Xvfb: `which Xvfb`
+    which Xvfb > /dev/null
 
     if [ $? != 0 ]
     then
@@ -47,6 +47,7 @@ else
         exit 1
     fi
 
+       echo Using Xvfb: `which Xvfb`
        create_xvfb
 
        echo "Executing command: $@"
