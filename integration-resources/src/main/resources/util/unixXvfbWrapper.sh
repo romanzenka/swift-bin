@@ -15,7 +15,7 @@ create_xvfb () {
 		XVFB_PID=$!
 		echo $XVFB_PID
 		sleep 1
-		if ps --pid $XVFB_PID
+		if ps -p $XVFB_PID
                		then
                 	echo "Started XVFB on display $DISPLAYNO process $XVFB_PID"
                 	xvfb_success=1
