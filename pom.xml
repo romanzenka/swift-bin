@@ -4,7 +4,7 @@
     <groupId>edu.mayo.mprc</groupId>
     <artifactId>swift-bin</artifactId>
     <packaging>pom</packaging>
-    <version>3.4</version>
+    <version>3.5-SNAPSHOT</version>
     <name>Swift Binaries</name>
     <url>http://github.com/romanzenka/swift-bin</url>
     <inceptionYear>2007</inceptionYear>
@@ -52,6 +52,6 @@
         <connection>scm:git:git://github.com/romanzenka/swift-bin.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/romanzenka/swift-bin.git</developerConnection>
         <url>https://github.com/romanzenka/swift-bin/tree/master/${project.artifactId}</url>
-      <tag>swift-bin-3.4</tag>
+      <tag>HEAD</tag>
   </scm>
 </project>
