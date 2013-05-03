@@ -1,4 +1,4 @@
-Swift 2.4.5 installation.
+Swift 3.5 installation.
 -------------------------
 
 1) Copy the Swift installation to your disk.
