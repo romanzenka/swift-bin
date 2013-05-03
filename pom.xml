@@ -12,7 +12,7 @@
 
     <parent>
         <groupId>edu.mayo.mprc</groupId>
-        <artifactId>swift</artifactId>
+        <artifactId>mprc</artifactId>
         <version>3.4</version>
     </parent>
 
