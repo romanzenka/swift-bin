@@ -4,7 +4,7 @@
     <groupId>edu.mayo.mprc</groupId>
     <artifactId>swift-bin</artifactId>
     <packaging>pom</packaging>
-    <version>3.5-SNAPSHOT</version>
+    <version>3.6-SNAPSHOT</version>
     <name>Swift Binaries</name>
     <url>http://github.com/romanzenka/swift-bin</url>
     <inceptionYear>2007</inceptionYear>
