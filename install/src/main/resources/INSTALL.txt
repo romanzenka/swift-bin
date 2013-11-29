@@ -3,7 +3,7 @@ Swift 3.5 installation.
 
 1) Copy the Swift installation to your disk.
 
-2) Run the swift (bin/swift console on Linux, bin/swift.bat on Windows)
+2) Run the swift ('bin/swift console' on Linux, 'bin/swift.bat console' on Windows)
 
    Swift will give you an URL (e.g. http://server:8080). Open the URL in your web browser. The configuration page
       should appear.
