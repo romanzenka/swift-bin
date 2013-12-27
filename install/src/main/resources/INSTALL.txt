@@ -1,5 +1,5 @@
-Swift 3.5 installation.
--------------------------
+Swift installation
+------------------
 
 1) Copy the Swift installation to your disk.
 

@@ -1,1 +1,0 @@
-Initial fasta databases for Swift installation.
