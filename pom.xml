@@ -49,7 +49,7 @@
     <!-- Source Control Management -->
     <scm>
         <!-- SCM setup -->
-        <connection>scm:git:git://github.com/romanzenka/swift-bin.git</connection>
+        <connection>scm:git:ssh://git@github.com/romanzenka/swift-bin.git</connection>
         <developerConnection>scm:git:ssh://git@github.com/romanzenka/swift-bin.git</developerConnection>
         <url>https://github.com/romanzenka/swift-bin/tree/master/${project.artifactId}</url>
       <tag>HEAD</tag>
