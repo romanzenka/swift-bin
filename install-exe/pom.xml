@@ -2,13 +2,13 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>edu.mayo.mprc</groupId>
     <artifactId>install-exe</artifactId>
-    <version>3.6</version>
+    <version>3.7-SNAPSHOT</version>
     <packaging>jar</packaging>
     <name>install-exe</name>
     <description>Executable files that make Swift installation package. TODO: assembly plugin hack, fix</description>
     <parent>
         <groupId>edu.mayo.mprc</groupId>
         <artifactId>swift-bin</artifactId>
-        <version>3.6</version>
+        <version>3.7-SNAPSHOT</version>
     </parent>
 </project>
