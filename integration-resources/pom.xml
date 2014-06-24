@@ -3,14 +3,14 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>edu.mayo.mprc</groupId>
     <artifactId>integration-resources</artifactId>
-    <version>3.7-SNAPSHOT</version>
+    <version>3.7</version>
     <name>integration resources</name>
     <description>All the data for running an integration test.</description>
 
     <parent>
         <groupId>edu.mayo.mprc</groupId>
         <artifactId>swift-bin</artifactId>
-        <version>3.7-SNAPSHOT</version>
+        <version>3.7</version>
     </parent>
 
 </project>

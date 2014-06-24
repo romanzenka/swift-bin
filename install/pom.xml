@@ -2,13 +2,13 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>edu.mayo.mprc</groupId>
     <artifactId>install</artifactId>
-    <version>3.7-SNAPSHOT</version>
+    <version>3.7</version>
     <packaging>jar</packaging>
     <name>install</name>
     <description>Files that make Swift installation package</description>
     <parent>
         <groupId>edu.mayo.mprc</groupId>
         <artifactId>swift-bin</artifactId>
-        <version>3.7-SNAPSHOT</version>
+        <version>3.7</version>
     </parent>
 </project>
